@@ -1,3 +1,8 @@
+// Brandon M. Kelley
+// January 5, 2016
+//
+// Dim LED
+
 #include <msp430.h>
 
 int main() {
